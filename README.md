@@ -1,3 +1,3 @@
 #Document du projet
 ## le type de document description du projet
-### Modification sur README
+### Modification sur README.md
